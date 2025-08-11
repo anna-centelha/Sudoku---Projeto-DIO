@@ -27,9 +27,9 @@ As três regras fundamentais são:
 
 ### 💡 Dicas e Estratégias
 
-Seguir a lógica do Sudoku pode ser desafiador. Aqui ficam algumas dicas de como abordar o problema:
+Algumas dicas de como abordar o problema:
 
-* **Varredura por Número (Scanning):** Escolha um número (por exemplo, o "5") e verifique todas as linhas, colunas e caixas 3x3 para ver onde ele já aparece. Ao fazer isso, você pode encontrar uma caixa 3x3 onde o "5" só pode ir em um único lugar vago. Esta é a técnica mais básica e poderosa.
+* **Varredura por Número (Scanning):** Escolha um número (por exemplo, o "5") e verifique todas as linhas, colunas e caixas 3x3 para ver onde ele já aparece. Ao fazer isso, você pode encontrar uma caixa 3x3 onde o "5" só pode ir em um único lugar vago.
 
 * **Procure a Casa Óbvia:** Em vez de focar em um número, foque em uma casa vazia. Olhe para a linha, a coluna e a caixa 3x3 em que ela se encontra. Veja todos os números que já estão nessas áreas. Se faltar apenas um número de 1 a 9, essa é a resposta para aquela casa!
 
