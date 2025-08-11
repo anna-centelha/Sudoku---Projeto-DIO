@@ -1,9 +1,6 @@
 # Projeto Sudoku em Java ☕️♨️
 
 Este é um projeto de um jogo de Sudoku funcional desenvolvido em Java, como parte dos desafios propostos pela [Digital Innovation One (DIO)](https://www.dio.me/). O foco foi criar um jogo com uma interface gráfica amigável, utilizando a biblioteca nativa **Java Swing**.
-
-![image](https://raw.githubusercontent.com/user-attachments/assets/LINK_PARA_SUA_IMAGEM_AQUI)
-
 ---
 
 ### ✨ Funcionalidades
